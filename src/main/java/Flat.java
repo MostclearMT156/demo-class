@@ -1,6 +1,6 @@
 public class Flat {
     Kitchen kitchen;
     Hall hall;
-    Bedroom Bedroom;
+    Bedroom bedroom;
     Bathroom bathroom;
 }
